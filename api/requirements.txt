@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+tensorflow-serving-api<2.11
+matplotlib
+numpy
+tensorflow<2.11
+
+
+<a href="https://www.freepik.com/free-photo/aloe-vera-cosmetic-cream-white-surface_13807281.htm#query=aloe%20vera%20background&position=5&from_view=keyword&track=ais">Image by jcomp</a> on Freepik
